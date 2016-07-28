@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main()
+{
+    int oppale = 5;
+    printf("Ciao Mondo! %d", oppale);
+    
+    return 0;
+}
