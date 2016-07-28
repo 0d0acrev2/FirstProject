@@ -5,5 +5,10 @@ int main()
     int oppale = 5;
     printf("Ciao Mondo! %d", oppale);
     
+    printf("Inserisca un numero che verrà moltiplicato per 1247: ");
+    scanf("%d", &oppale);
+    
+    printf("Ecco il risultato: %d", oppale*1247);
+    
     return 0;
 }
